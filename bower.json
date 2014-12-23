@@ -1,0 +1,14 @@
+{
+  "name": "cgc-dot-com",
+  "version": "1.0.0",
+  "authors": [
+    "Matt Farmer <matt@frmr.me>"
+  ],
+  "description": "The Crazy Goat Creative homepage.",
+  "license": "Apache2",
+  "homepage": "http://crazygoatcreative.com",
+  "private": true,
+  "dependencies": {
+    "foundation": "~5.5.0"
+  }
+}
